@@ -1,0 +1,10 @@
+Check in the Device Manager the number of the port 'COM' assigned to the Raspberry Pi 2 (USB-SERIAL CH340).
+
+Modify the file "send.ttl" in order to set up the C parameter. For example, if the assigned port is COM5 the file "send.ttl" should be:
+
+
+connect '/C=5'
+setbaud 115200
+setdtr 0
+xmodemsend param2 1
+closett
