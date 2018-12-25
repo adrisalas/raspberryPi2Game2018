@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Raspberry Pi 2 - Game 2018 (Assembly - ARM)
 
 This is a game I developed for a **Raspberry Pi 2** in 2018. I used the GPIO ports of the board, to use 6 leds, a buzzer and two buttons.
 
