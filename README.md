@@ -30,6 +30,4 @@ You can reset the game, once it has finish running pressing the sequence (Btn1-B
 
 ## Video
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=t0Ilia8EEKc
-" target="_blank"><img src="http://img.youtube.com/vi/t0Ilia8EEKc/0.jpg" 
-alt="Raspberry Pi 2 - Game" width="240" height="180" border="10" /></a>
+[![Raspberry Pi 2 - Game](https://img.youtube.com/vi/t0Ilia8EEKc/0.jpg)](https://www.youtube.com/watch?v=t0Ilia8EEKc)
